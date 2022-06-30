@@ -1,6 +1,6 @@
 export default function Ribbonhead()
 {
     return(
-        <h2 className="content-head content-head-ribbon">Laboris nisi ut aliquip.</h2>
+        <h2 className="content-head content-head-ribbon">WISATA PANTAI SULUT.</h2>
     )
 }
